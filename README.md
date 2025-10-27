@@ -87,5 +87,5 @@ Follow these steps to set up the project locally:
 
 **Saquib Bin Halim**  
 💼 Computer Science Engineering Student | Android Developer  
-📧 [saquibbinhalim@example.com](mailto:saquibbinhalim@example.com)  
-🌐 [LinkedIn Profile](https://linkedin.com/in/saquibbinhalim)
+📧 [saquibbinhalim@example.com](mailto:saquibbinhalim.365@example.com)  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/saquib-halim-1b481724b/)
